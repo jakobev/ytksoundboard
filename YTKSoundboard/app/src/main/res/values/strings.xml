@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">YTK Soundboard</string>
+
+    <string-array name="soundNames">
+        <item>Feuerteufel</item>
+        <item>Naa Herr Lustig</item>
+        <item>Naa Herr Lustig (full)</item>
+        <item>Paschulkes mystische Gestalten</item>
+        <item>Paschulke schau nach</item>
+        <item>Paschulkes Apocalypse gerede</item>
+        <item>Peter brauch Pilze</item>
+        <item>Ach der Herr Nachbar</item>
+        <item>Kein Pilz weit und breit</item>
+        <item>Pilz pflücken</item>
+        <item>Ja, Meinst du</item>
+        <item>Können Pilze sprechen</item>
+        <item>Psychointro</item>
+        <item>Scheisshaus verwechselt</item>
+        <item>Absolut sicher</item>
+        <item>Pilz kreischt</item>
+        <item>Hart wie Penisse</item>
+        <item>Naaaackiig</item>
+        <item>Acid Acid Acid</item>
+        <item>Probier mal</item>
+        <item>Genaaau</item>
+        <item>Meister rülpst</item>
+        <item>Meister saas</item>
+        <item>Warum heissen Deutschländer eigentlich Deutschland</item>
+        <item>5000 WATT BASS MACHINE</item>
+        <item>Fuuuuurz hihihi</item>
+        <item>Schreckliche Haarfarbe</item>
+        <item>Ja bitte</item>
+        <item>Limbo</item>
+        <item>Robotnik lacht</item>
+        <item>ALLE</item>
+        <item>Scooter lacht über Haarfarbe</item>
+        <item>Junge aus Alabastia</item>
+        <item>Hey ihr Ganoven</item>
+        <item>Teewurst,Äpfel</item>
+        <item>Teewurst,halts Maul</item>
+        <item>Wer ist das</item>
+        <item>Pyradonis AAAHHH</item>
+        <item>Ein zwei Tropfen Jauchensaft</item>
+        <item>Spinnenbein kiffen</item>
+        <item>NEEEEEEEEIIN</item>
+        <item>Pyradonis Rezept</item>
+        <item>Ich scheiss doch was gut schmeckt</item>
+        <item>Warrrum nicht</item>
+        <item>ALLA ELLA ALLA</item>
+        <item>Tag reicht nicht aus zum kacken</item>
+        <item>Wasser ist flüssiges Eis</item>
+        <item>Soo gross wie mein Gehirn</item>
+        <item>Ich kacke also bin ich</item>
+        <item>Kameramann</item>
+        <item>Lesch lacht</item>
+        <item>Würdest du zum Mars</item>
+        <item>Nasser als Wasser</item>
+        <item>Rationasoos</item>
+        <item>Riesen Brocken</item>
+        <item>Lesch Techno</item>
+        <item>Wasser ist nass</item>
+        <item>Weltschöpfer</item>
+        <item>Kerina kümmert sich um die 7 Zwerge</item>
+        <item>Was für ein Spuk ist denn hier</item>
+        <item>Ahnenscheisse</item>
+        <item>Dicke Titten im alten Haus</item>
+        <item>Das waren Männertitten</item>
+        <item>Hinter die Bahnschranken links</item>
+        <item>Böhse Mamma</item>
+        <item>Danke tschüss</item>
+        <item>Der nächste Morgen</item>
+        <item>Für alles eine Erklärung</item>
+        <item>Esel reiten</item>
+        <item>Jungfrau Sophie</item>
+        <item>Gefühlt ja, gefühlt</item>
+        <item>Geheimnissvolle Orte</item>
+        <item>Gräfin Kackball</item>
+        <item>Graf wird fündig</item>
+        <item>Guten Tag</item>
+        <item>Henning Christof</item>
+        <item>Hier bin ich überfordert</item>
+        <item>Hier kommt der Priester</item>
+        <item>Ich komme</item>
+        <item>I need your help</item>
+        <item>Spuksucher Intro</item>
+        <item>Spuksucher Intro 2</item>
+        <item>Ja danke, tschüss</item>
+        <item>Die Sage von der Jungfer</item>
+        <item>Spermaversorgung</item>
+        <item>Das Kackbrett vom Priester</item>
+        <item>Gräfin hört keine Titten mehr</item>
+        <item>Mein Sohn, der spinnt</item>
+        <item>Männertitten</item>
+        <item>Männertitten im Flur</item>
+        <item>Mehr über die Gegend erfahren</item>
+        <item>Meine Frau ist nicht geschmiert</item>
+        <item>Im Moor versunken</item>
+        <item>Moorgeister</item>
+        <item>Nacht in der Burg</item>
+        <item>Puzzleteile</item>
+        <item>Eier ausgelegt</item>
+        <item>Richtig schwere Männertitten</item>
+        <item>Spuksucher Ritual</item>
+        <item>Satsfall spukt</item>
+        <item>Schaun wa mal</item>
+        <item>Schwaaaanz</item>
+        <item>Schwanz ist früher gekommen</item>
+        <item>Sperma schöpfen</item>
+        <item>Die Jungfer spukt</item>
+        <item>Hab gehört es Spukt hier. Neineinein</item>
+        <item>Ooooh Hallooo</item>
+        <item>Voodooritual</item>
+        <item>Voodoopriester und sein kack Assistent</item>
+        <item>Warum klopfen sie</item>
+        <item>Wetterfahne</item>
+        <item>Aktzeptiere ist ein schwieriges Wort</item>
+        <item>Titten um zehn Uhr abends</item>
+        <item>Was ist ihr zugestossen</item>
+
+    </string-array>
+
+    <string name="action_send">Teilen</string>
+    <string name="action_ringtone">Speichern als...</string>
+    <string name="action_favorite">Als Favorit hinzufügen</string>
+    <string name="action_removeFavorite">Favorit löschen</string>
+    <string name="action_favorite_show">Favoriten</string>
+    <string name="action_favorite_hide">Zurück</string>
+    <string name="action_info">Info</string>
+    <string name="action_about">Willkommen!\n\nEntwickler: Marvin Bittermann/JakobevCorporation\n\n
+E-Mail: jakobev1@gmail.com\n\n
+App-Version: 1.0\n\n
+Bin für alle Verbesserungsvorschläge offen, also wenn ihr bock habt,
+schreibt mir einfach eine kurze Mail.
+Danke :)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+

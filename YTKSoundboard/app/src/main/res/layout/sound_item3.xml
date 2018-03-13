@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="160dp"
+    android:layout_height="120dp"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+
+    >
+
+
+    <ImageView
+        android:layout_width="157dp"
+        android:layout_height="91.1dp"
+        android:id="@+id/imageViewItem"
+        android:background="@color/brown"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2.25dp"
+
+        />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="65dp"
+        android:src="@drawable/ytkicon_item"
+        android:padding="1dp"/>
+
+    <TextView
+        android:id="@+id/textViewItem"
+        android:layout_width="160dp"
+        android:layout_height="95dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/custom_background"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        />
+
+</RelativeLayout>
